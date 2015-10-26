@@ -1,4 +1,4 @@
-class roles::wordpress(){
+class role::wordpress(){
   include profile::wordpress
   
   
