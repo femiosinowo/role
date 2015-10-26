@@ -1,4 +1,4 @@
-class role::puppet_master(){
+class role::puppetmaster(){
   include profile::r10k
   #include r10k::mcollective
   
