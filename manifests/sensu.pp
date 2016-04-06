@@ -1,4 +1,4 @@
-class role::puppetmaster () {
+class role::sensu () {
   include profile::prof_sensu
  
  
