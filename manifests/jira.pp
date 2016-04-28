@@ -1,3 +1,3 @@
 class role::jira{
-  include profile::jira
+  include profile::profile_jira
 }
